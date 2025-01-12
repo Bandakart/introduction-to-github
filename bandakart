@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anatolii Bezsmolii - Portfolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #000;
+            color: #fff;
+            padding: 20px 0;
+            text-align: center;
+        }
+        section {
+            padding: 20px;
+            max-width: 800px;
+            margin: 0 auto;
+            background: #fff;
+            margin-bottom: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #000;
+        }
+        .contact {
+            text-align: center;
+        }
+        .contact a {
+            color: #007bff;
+            text-decoration: none;
+        }
+        .contact a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Anatolii Bezsmolii</h1>
+        <p>Graphic Designer Specializing in High-Rise Buildings, Hotels, and Natural Landscapes</p>
+    </header>
+
+    <section>
+        <h2>About Me</h2>
+        <p>💼 I have experience working at Fenhels_Production as a Lead Designer and Junior Designer in Bandakart.</p>
+        <p>📚 A graduate of Borcelle University with a degree in Business Management.</p>
+        <p>🎯 My goal is to create designs that inspire and bring value.</p>
+    </section>
+
+    <section>
+        <h2>Skills</h2>
+        <h3>Adobe Photoshop</h3>
+        <p>Image editing, banner creation, photomanipulation, working with light, shadows, and textures for realistic and creative projects.</p>
+        <h3>Adobe Illustrator</h3>
+        <p>Creation of logos, vector graphics, illustrations, and detailed images for branding and advertising campaigns.</p>
+    </section>
+
+    <section>
+        <h2>Best Projects</h2>
+        <p>Work and effort are an inseparable part of the journey toward achieving harmony and satisfaction. Each step brings us closer to our goal if we focus on what truly matters, avoiding unnecessary challenges and concentrating on what brings joy and benefit.</p>
+    </section>
+
+    <section>
+        <h2>Testimonials</h2>
+        <p><strong>"The logo he designed exceeded all our expectations."</strong></p>
+        <p><strong>"The banner significantly boosted our sales! Highly recommend his work."</strong></p>
+        <p><strong>"Anatolii brought our brand to life with his creative designs and unmatched professionalism."</strong></p>
+        <p><strong>"The website redesign transformed our online presence. Customers love the new look."</strong></p>
+    </section>
+
+    <section class="contact">
+        <h2>Contact Me</h2>
+        <p>🌐 <a href="http://www.reallygreatsite.com" target="_blank">Website</a></p>
+        <p>📧 <a href="mailto:bezsmolyi.tolya@gmail.com">bezsmolyi.tolya@gmail.com</a></p>
+        <p>📱 0682123282</p>
+        <p>📸 Instagram: <a href="https://instagram.com/bandakart_" target="_blank">@bandakart_</a></p>
+    </section>
+</body>
+</html>
